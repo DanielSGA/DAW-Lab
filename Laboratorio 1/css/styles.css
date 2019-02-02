@@ -1,0 +1,74 @@
+.title-white {
+    background-color: white;
+    padding: 15px 15px 15px 15px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Verdana;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.info {
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+body {
+    background-image: url('../img/stars.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.white-back {
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px 30px 30px 30px;
+}
+
+.field {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-family: Verdana;
+    text-shadow: 2px 2px 5px #181f73;
+}
+
+.header {
+    font-family: Verdana;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.date {
+    font-family: Verdana;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: right;
+    margin-left: 100px;
+}
+
+h3 {
+    font-family: Verdana;
+    font-style: italic;
+}
+
+.skill {
+    font-size: medium;
+    font-family: Verdana;
+    padding: 5px;
+}
+
+#first {
+    margin-left: 40px;
+}
+
+.social {
+    margin-right: 10px;
+}
